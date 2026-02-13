@@ -1,0 +1,8 @@
+{
+  "name": "GPU Pass",
+  "description": "A transparent lifecycle tracking system for enterprise GPUs to promote e-waste reduction and second-life adoption.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
